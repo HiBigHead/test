@@ -1,6 +1,6 @@
 <template>
   <div class="content-center">
-    <p>About</p>
+    <p>AboutAbout</p>
   </div>
 </template>
 
